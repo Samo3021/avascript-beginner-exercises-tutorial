@@ -17,7 +17,7 @@ function getColor(colorNumber=0)
 }
 
 function getAllStudentColors(){
-	for(var i = 0; i<10; i++)
+	
 	//your loop here
 	var exampleColor = getColor(1);
 }
